@@ -17,6 +17,6 @@ O foco pedagógico é demonstrar na prática o uso de vetores (`arrays`), string
 ##  Arquitetura Inicial do Código
 
 ### 1. Definição de Constantes e Limites de Buffer
-
+teste
 ```c
 #define MAX_LETRAS 16
