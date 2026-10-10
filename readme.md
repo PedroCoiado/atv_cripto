@@ -1,3 +1,15 @@
+# Entrega 1 - Atividade de Criptografia 
+
+## Metadados
+
+* **Nome do Aluno 1/Curso:** Guilherme Hiroshi dos Santos Okamoto - **RGM:** 47554703 (Engenharia de Software)
+* **Nome do Aluno 2/Curso:** Gustavo Gomes Silva - **RGM:** 47436808 (Engenharia de Software)
+* **Nome do Aluno 3/Curso:** Pedro Henrique Ruola Coiado - **RGM:** 47589124 (Ciência da Computação)
+
+  ```c
+  Professor/Disciplina: Francisco De Assis Cavallaro - Algoritmos e Pensamento Computacional
+
+
 # Cifra Híbrida: César + Fibonacci em Linguagem C
 
 Implementação acadêmica desenvolvida para a disciplina de **Algoritmo e Pensamento Computacional**, com o objetivo de praticar conceitos de programação em C por meio de uma atividade de criptografia.
