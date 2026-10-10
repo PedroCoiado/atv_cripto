@@ -154,7 +154,8 @@ O laço também calcula os próximos valores de Fibonacci para que cada letra po
 
 ---
 
-## 6. Exemplo de Execução
+## 6. Exemplo de Execução:
+
 
 Considerando a palavra `GUI` e o valor de SHIFT igual a 3, temos:
 
@@ -165,6 +166,12 @@ Considerando a palavra `GUI` e o valor de SHIFT igual a 3, temos:
 | Fibonacci aplicado | ESH |
 
 Na primeira etapa, as letras são substituídas utilizando o alfabeto cifrado. Na segunda, os valores de Fibonacci modificam novamente as posições das letras.
+
+#Segundo Exemplo de Execução:
+
+<img width="675" height="718" alt="{8FF52226-E5D0-46C3-A746-52F489931ED2}" src="https://github.com/user-attachments/assets/99a55a4a-e7fa-447d-adc4-23526fa8fb24" />
+
+Demonstração do código em prática, passo a passo, seguindo a mesma regra do primeiro exemplo. 
 
 ---
 
